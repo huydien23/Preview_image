@@ -23,7 +23,7 @@ myUpload.addEventListener('change', function(e) {
     }
 
    const img = document.createElement('img');
-
+    // Đổi qua Base64
     // var fileReader = new FileReader()
     // fileReader.readAsDataURL(file)
     // fileReader.onloadend = function(e){
